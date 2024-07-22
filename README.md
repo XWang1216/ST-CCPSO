@@ -8,6 +8,12 @@ This code is from the paper 'A Cluster-Based Competitive Particle Swarm Optimize
 ## General framework
 <img src="flow4.png" alt="Project Framework" width="300" />
 
+## Implement
+Run ST_CCPSO.m
+
+"ST_CCPSO" (main function) has the most detailed information and annotation.
+So please check this main file at first to help you understand this algorithm well.
+
 ## Matlab Version
 R2018
 
